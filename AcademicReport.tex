@@ -1,0 +1,59 @@
+%%%%%%%%%%%%%%%%
+% Latex Vorlage \includegraphics[]{Bakkarbeit.pdf}
+% zum Schreiben einer Bakk.-Arbeit
+%%%%%%%%%%%%%%%%
+
+
+% Load all the Headers that are needed 
+\input{Headers.tex}
+
+% Begin with the document
+\begin{document}
+
+
+% Titelseite
+\include{Titlepage}
+
+%Abstract
+\addcontentsline{toc}{section}{Abstract}
+\include{Chapters/Abstract}
+
+% Table of Contents
+\newpage{}
+\tableofcontents{}
+\setcounter{tocdepth}{5}
+\newpage{}
+
+
+% Chapters
+\include{Chapters/01_Introduction}
+\include{Chapters/02_Process}
+\include{Chapters/03_SANSURGIMS}
+\include{Chapters/04_Evaluation}
+\include{Chapters/05_FutureWork}
+\include{Chapters/06_Reflection}
+\include{Chapters/07_Conclusion}
+
+% Appendizes
+\appendix
+
+%Glossary
+
+%\phantomsection
+%\addcontentsline{toc}{section}{Glossary}
+%\printglossary
+
+
+
+% Literaturverzeichnis
+\renewcommand{\refname}{Bibliography} 
+\nocite{*} %this needs to be here in order to get the Bilbiography to show without having cited
+\bibliography{bib/References}
+
+\include{Chapters/Appendix}
+
+% Abbildungsverzeichnis, Tabellenverzeichnis
+%\newpage
+%\listoffigures 
+
+\end{document}

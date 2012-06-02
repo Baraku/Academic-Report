@@ -1,0 +1,124 @@
+
+%%%%%%%%%%%%%%%%%%%
+% Latex Headers for Bakkarbeit.tex
+%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass [12pt, a4paper, bibtotocnumbered, liststotocnumbered, normalheadings]{scrartcl}
+\usepackage[latin9]{inputenc}
+\usepackage[english]{babel}
+
+% Graphiken einbinden
+\usepackage{graphicx}
+\usepackage{float}
+
+% Anklickbare Links im PDF file
+\usepackage{url}
+\usepackage[pdftex, bookmarks, bookmarksopen=true, bookmarksnumbered=true]{hyperref}
+
+% Glossary
+\usepackage{glossaries}
+\makeglossaries
+
+\newglossaryentry{PBTM}{name={PBTM},description={\textbf{P}ay \textbf{B}y \textbf{T}he \textbf{M}onth. The acronym used to describe this project}}
+
+% PDF Titel, Autor etc setzen:
+\hypersetup{
+	pdftitle={Pay By The Month Application Rewrite},
+	pdfauthor={Patrick Mumme},
+}
+
+% Seite einrichten
+\usepackage{geometry}
+\geometry{verbose, a4paper, tmargin=2cm, bmargin=1.7cm, lmargin=2cm, rmargin=2cm, headsep=0cm}
+
+% Zeilenabstand
+\usepackage{setspace}
+\setstretch{1.3}
+
+% Kopf- und Fusszeilen
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\headheight33pt
+\headsep1cm
+\footskip1cm
+\textheight23cm
+
+\lhead{\includegraphics[height=1cm]{Images/usyd_logo}}
+\chead{} 
+\rhead{\nouppercase{\leftmark}} 
+
+\lfoot{PBTM} 
+\cfoot{} 
+\rfoot{Page \thepage} 
+
+% Zitate aus Bibtex Bibliographien
+%\usepackage[square, authoryear, sort]{natbib}
+% \bibliographystyle{plainnat}
+\usepackage[square, authoryear]{natbib}
+\bibliographystyle{apa}
+
+%\usepackage[style=apa]{natlib}
+%\usepackage{csquotes}
+
+% Tabellen 
+\usepackage{tabularx} % fuer einseitige tabellen
+\usepackage{supertabular} % mehrseitige tabellen
+
+% Source Code Listings
+\usepackage{listings} 
+\lstset{
+  float,
+  basicstyle=\small, 
+  tabsize=2, 
+  numbers=left, 
+  numberstyle=\tiny, 
+  numbersep=5pt, 
+  frame=lines, 
+  breaklines=false,
+  prebreak={\mbox{\ensuremath{\hookleftarrow}}},
+  postbreak={\space\space},
+  breakindent=0pt,
+  captionpos=b
+}
+
+
+% Kommentare
+% Damit kann man \begin{comment}...\end{comment} verwenden!
+\usepackage{comment}
+\usepackage{fancybox}
+\newenvironment{commentenvironment}% 
+{\begin{Sbox}\begin{minipage}}% 
+{\end{minipage}\end{Sbox}\shadowbox{\TheSbox}} 
+\specialcomment{comment}
+{\begin{commentenvironment}{\textwidth}}
+{\end{commentenvironment}}
+
+% Alle Kommentare ausblenden geht so:
+%\excludecomment{comment}
+
+
+% Aufzaehlungen mit enumerate
+\usepackage{enumerate}
+
+
+% Lyx Listen f�r Kompatibilit�t mit Lyx Quellcode
+\newenvironment{lyxlist}[1]
+{\begin{list}{}
+{\settowidth{\labelwidth}{#1}
+ \setlength{\leftmargin}{\labelwidth}
+ \addtolength{\leftmargin}{\labelsep}
+ \renewcommand{\makelabel}[1]{##1\hfil}}}
+{\end{list}}
+
+
+% Verhinderung von "Schusterjungen"
+% einzelne Absatzzeilen auf der Seite unten
+\clubpenalty = 10000
+
+% Verhinderung von "Hurenkindern"
+% einzelne Zeilen eines Absatzes am Kopf der Seite
+\widowpenalty = 10000
+
+
+
