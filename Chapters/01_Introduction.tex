@@ -1,19 +1,27 @@
 \section{Introduction}
 \subsection{Client Profile}
-Originally opened in 1903 as a 70 bed Sanitarium, the Sydney Adventist Hospital (SAH), known to the local residents as `The San', is a not-for-profit hospital of the South Pacific Division of the Seventh-day Adventist Church.  Today, the hospital is a private hospital offering acute care and currently has 358 licensed overnight beds. SAH is the largest single campus private hospital within NSW and was the first of its kid to be accredited by the Australian Council on Healthcare Standards. SAH is proud to have won the Australian Private Hospitals Association Award for Clinical Excellence in the category 70 beds and over in 2006.
+Originally opened in Wahroonga on January 1 1903 as a 70 bed Sanitarium, the Sydney Adventist Hospital (SAH), known to the local residents as `The San', is a not-for-profit hospital of the South Pacific Division of the Seventh-day Adventist Church.  Today, the hospital is a private hospital offering acute care and currently has 358 licensed overnight beds. SAH is the largest single campus private hospital within NSW and was the first of its kid to be accredited by the Australian Council on Healthcare Standards. SAH is proud to have won the Australian Private Hospitals Association Award for Clinical Excellence in the category 70 beds and over in 2006.
  \\ \\
 The San prides itself on being the single biggest employer within the Hornsby-Kruing-gai area employing over 2,2200 staff and around 700 accredited medical pactitioners. Together, the SAN staff care for more than 50,000 inpatients and about 160,000 outpatients. The San is also known for its maternity wards and is proud to be bringing over 2,000 babies a year into the world. The SAN, being one of few private hospitals to offer emergency care, admits over 20,000 patients annualy making it NSW's largest and busiest emergency care department among private hospitals. The SAN offers medical services ranging from acute surgical, medical and obstetric care to complex cardiac and orthopaedic procedures. The SAN boasts cutting edge facilities that include a dozen operation theatre suites, 3 state-of-the-art Cardiac Catheterisation Laboratories and Australia\'s first dual source CT scanner. The SAN is also responsible for operating the San Day Surgery Hornsby and Dalcross Adventist Hospital, located in Killara.
 \\ \\
 Having the mission statement ``Christianity in Action", the SAN not only offers world class care to the patients within the hospital, but also to disadvantaged third world men, women and children as part of its HealthCare Outreach program. Since its inception in 1986, the HealthCare Outreach program has undertaken 100 trips to 13 different countries culminating in over 2,800 surgeries and lives saved. 
+\newpage
 
 \subsection{Project Description and Scope}
+\subsubsection{Project Description}
+The SAN Hospital Information System has to service many different clinical specialities and environments. This project will develop a prototype application in the form of a simulator of a novel HIT system for surgical patients. These patients typically have specific and predictable post-surgical outcomes and hospitalisation time-frames, as outlined in various surgical clinical pathways (e.g. Urology such as, Greenlight Laser Prostatectomy, Ear, Nose and Throat (ENT) and Plastics). Caring for these patients requires multidisciplinary nursing and allied health staff information systems.
+Constructing a requirements document will be a complex task but gives students the richest possible experience in understanding all the stages of requirements gathering, systems design and systems implementation. The project will use a research technology simulator that enables the process of requirements gathering and system design to be integrated as a single process and thereby enable validation of requirements by their implementation into a design simulator. 
 
+\subsubsection{Scope}
+The project will commence with the gathering of requirements by meeting and interviewing various clinical staff fulfilling a variety of roles on the surgical ward, level 11. The student will also gather all paper based forms in use on the ward as references during the design process. Upon completion of the first phase of requirements gathering, a requirements document will be created and will represent the basis for design decisions. The student will design forms including the clinical handover in the simulator as well as obtain end user feedback during the majority of the semester. Towards the end of the semester, the student will undertake user acceptance testing as well as evaluations of the work done. The project will conclude with a first draft of the clinical handover form and a presentation to SAN staff. The project will finish at the end of the academic semester.
+
+\newpage
 \subsection{Project Objectives}
 \label{Project Objectives}
 \begin{itemize}
-\item Rewrite the current Pay By The Month Service into Java
-\item Increase resilience, maintainability, extensibility and reporting
-\item Minimize complexity by using plain Java without application frameworks
+\item Collect the requirements for a Clinical Handover for use by nurses, allied health and medical staff in the care of surgical patients
+\item Produce an accurate record of the information each worker needs access to in the form of a requirements document including process flows
+\item Design and develop a prototype which simulates an electronic clinical information system with handover processes for nurses, doctors and other clinical staff
 \end{itemize}
 
 \subsubsection{Risks}
@@ -22,11 +30,11 @@ Having the mission statement ``Christianity in Action", the SAN not only offers 
 \hline
 {\bf Ref \#} & {\bf Probability} & {\bf Impact} & {\bf Description} & {\bf Mitigation} \\
 \hline
-R.1 & Medium & High & Developer overloaded & Increase allotted project \\ & & & & time for developer \\
+R.1 & High & Medium & Reduced performance through & Increase allotted tool  \\ & & & use of new technology & usage time  \\ 
 \hline
-R.2 & Low & High & Communication problems & Incorporate external  \\  & & & expert in with external & system \\  & & & systems & troubleshooting as \\ & & & & well as using  proof \\ & & & &  of concepts \\ 
+R.2 & Low & High & Unable to complete project  & frequent comm- \\ & & & objectives due to simulator & unication with \\ & & & issues & simulator developers  \\  
 \hline
-R.3 & Low & Medium & Unforeseen required feature & Include in current or \\ & & & &  next iteration. \\ & & & & Reveal missed \\ & & & & stakeholders \\
+R.3 & Medium & Medium & Scope creep & Clearly outline scope \\ & & & &  at outset of project \\
 \hline
 \end{tabular}
 
@@ -34,17 +42,15 @@ R.3 & Low & Medium & Unforeseen required feature & Include in current or \\ & & 
 
 \begin{tabular}{|l|l|l|}
 \hline
-{\bf Ref \#} & {\bf Description} & {\bf Validated By} \\
+{\bf Ref \#} & {\bf Description} \\
 \hline
-A.1 & External Systems will not change their communications  \ \  & Adam Reitsma \\  & interfaces for the project duration &  \\
+A.1 & The simulator will not need to connect to existing SAN applications \\
 \hline
-A.2 & Developer, System Test and Production instances will be & Adam Reitsma \\ & available for the project & \\
+A.2 & We will have access to a simulator developer \\
 \hline
-A.3 & Testing will be done by developers as well as dedicated testers & Adam Reitsma \\ 
+A.3 & A project manager will be available to use to assist us in our work at the hospital \\ 
 \hline
-A.4 & Use of open source third party libraries is allowed & Adam Reitsma \\
-\hline
-A.5 & The bottleneck in terms of performance will be the actual   & Anand Ria \\ & monetary transaction between Suncorp and the bank & \\
+A.4 & We are not developing a system for actual use \\
 \hline
 \end{tabular}
 
@@ -54,17 +60,15 @@ A.5 & The bottleneck in terms of performance will be the actual   & Anand Ria \\
 \hline
 {\bf Ref \#} & {\bf Priority} & {\bf Description} & {\bf Owner} \\
 \hline
-I.1 & Medium & Late start for project due to waiting for management  & Management \\ & & decisions & \\
+I.1 & High & Simulator bugs \& issues & Simulator Developer \\
 \hline
-I.2 & Medium & Legacy system expert is on vacation during  & Management \\ && iteration 0 & \\
+I.2 & Medium & Exposed to immense amount of information & Student \\
+\hline
+I.3 & Medium & Sporadic staff availability  & Student \& PM \\
+\hline
+I.4 & Low & Time constraints due to university courses & Student \\
 \hline
 \end{tabular}
-
-
-\subsubsection{Constraints}
-
-
-\subsubsection{Exclusions}
 
 
 \newpage

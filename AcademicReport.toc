@@ -3,21 +3,24 @@
 \contentsline {section}{Glossary}{5}{section*.4}
 \contentsline {section}{\numberline {1}Introduction}{9}{section.1}
 \contentsline {subsection}{\numberline {1.1}Client Profile}{9}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Project Description and Scope}{9}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Project Objectives}{9}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Risks}{10}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Assumptions}{10}{subsubsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.3}Issues}{10}{subsubsection.1.3.3}
-\contentsline {subsubsection}{\numberline {1.3.4}Constraints}{11}{subsubsection.1.3.4}
-\contentsline {subsubsection}{\numberline {1.3.5}Exclusions}{11}{subsubsection.1.3.5}
+\contentsline {subsection}{\numberline {1.2}Project Description and Scope}{10}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Project Description}{10}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Scope}{10}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Project Objectives}{11}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Risks}{11}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Assumptions}{11}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Issues}{11}{subsubsection.1.3.3}
 \contentsline {subsection}{\numberline {1.4}Anticipated Outcomes / Results for the Project}{12}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}Benefits of the Project}{12}{subsection.1.5}
-\contentsline {section}{\numberline {2}Methodology}{13}{section.2}
+\contentsline {section}{\numberline {2}Process}{13}{section.2}
 \contentsline {subsection}{\numberline {2.1}Overview}{13}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Tools and Skills}{13}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Literature Review}{14}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Scope and Schedule}{14}{subsection.2.4}
-\contentsline {section}{\numberline {3}SANSURGIMS}{15}{section.3}
+\contentsline {section}{\numberline {3}System Design}{15}{section.3}
+\contentsline {subsection}{\numberline {3.1}Requirements Analysis}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Form Gathering}{15}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Designing}{15}{subsection.3.3}
 \contentsline {section}{\numberline {4}Evaluation}{16}{section.4}
 \contentsline {subsection}{\numberline {4.1}Testing Procedures}{16}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Interpretation of Results}{16}{subsection.4.2}
