@@ -1,7 +1,7 @@
 This is makeindex, version 2.15 [TeX Live 2011] (kpathsea + Thai support).
 Scanning style file ./AcademicReport.ist...........................done (27 attributes redefined, 0 ignored).
-Scanning input file ./AcademicReport.glo....done (72 entries accepted, 0 rejected).
-Sorting entries....done (393 comparisons).
-Generating output file ./AcademicReport.gls....done (167 lines written, 0 warnings).
+Scanning input file ./AcademicReport.glo....done (74 entries accepted, 0 rejected).
+Sorting entries....done (466 comparisons).
+Generating output file ./AcademicReport.gls....done (170 lines written, 0 warnings).
 Output written in ./AcademicReport.gls.
 Transcript written in ./AcademicReport.glg.

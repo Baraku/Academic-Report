@@ -66,6 +66,9 @@
 \glossaryentryfield{Hx}{\glsnamefont{Hx}}{history}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}\glsgroupskip
 \glsgroupheading{I}\relax \glsresetentrylist %
+\glossaryentryfield{iCIMS}{\glsnamefont{iCIMS}}{\textbf {i}ntegrated \textbf {C}linical \textbf {I}nformation \textbf {M}anagement \textbf {S}ystem. A design application developed at the University of Sydney allowing the creation of information systems without the necessity of programming experience}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{13}}}%
 \glossaryentryfield{IDC}{\glsnamefont{IDC}}{\textbf {I}n-\textbf {D}welling \textbf {C}atheter}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{IM}{\glsnamefont{IM}}{\textbf {I}ntra\textbf {m}uscular (routed into muscle tissue)}{\relax }{\glossaryentrynumbers{\relax 
