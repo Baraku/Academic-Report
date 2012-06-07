@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  7 JUN 2012 16:45
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  7 JUN 2012 18:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -769,102 +769,143 @@ Package pdftex.def Info: Images/usyd_logo.jpg used on input line 36.
 File: Images/usyd_logo.jpg Graphic file (type jpg)
 
 <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 11.
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 8.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [14
 
 
 ]
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+ <use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 19.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [15]
 Underfull \hbox (badness 10000) in paragraph at lines 23--26
 
  []
 
 File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 26.
-(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [15])
-File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 37.
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 27.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [16]
-\openout2 = `Chapters/03_SystemDesign.aux'.
+<Images/Clinical_Handover_All_Roles.png, id=397, 364.36125pt x 213.79875pt>
+File: Images/Clinical_Handover_All_Roles.png Graphic file (type png)
 
-
-(./Chapters/03_SystemDesign.tex)
-File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 38.
-(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [17
-
-
-]
-\openout2 = `Chapters/04_Evaluation.aux'.
-
-
-(./Chapters/04_Evaluation.tex)
+<use Images/Clinical_Handover_All_Roles.png>
+Package pdftex.def Info: Images/Clinical_Handover_All_Roles.png used on input l
+ine 33.
+(pdftex.def)             Requested size: 364.36035pt x 213.79822pt.
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 39.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [18
+
+[17 <./Images/Clinical_Handover_All_Roles.png>]
+<Images/Project_Process.png, id=404, 394.47375pt x 383.4325pt>
+File: Images/Project_Process.png Graphic file (type png)
+
+<use Images/Project_Process.png>
+Package pdftex.def Info: Images/Project_Process.png used on input line 44.
+(pdftex.def)             Requested size: 394.47278pt x 383.43156pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 48--37
+
+ []
 
 
-]
-\openout2 = `Chapters/05_FutureWork.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 48--37
 
+ []
 
-(./Chapters/05_FutureWork.tex)
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 40.
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 37.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [19
-
-
-]
-\openout2 = `Chapters/06_Reflection.aux'.
-
-
-(./Chapters/06_Reflection.tex)
+ [18 <./Images/Project_Process.png>]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 41.
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 37.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [19]
+\openout2 = `Chapters/03_SystemDesign.aux'.
+
+ (./Chapters/03_SystemDesign.tex)
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 38.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [20
 
 
 ]
-\openout2 = `Chapters/07_Conclusion.aux'.
+\openout2 = `Chapters/04_Evaluation.aux'.
 
-
-(./Chapters/07_Conclusion.tex)
+ (./Chapters/04_Evaluation.tex)
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 42.
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 39.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [21
 
 
 ]
-(./AcademicReport.bbl)
+\openout2 = `Chapters/05_FutureWork.aux'.
+
+ (./Chapters/05_FutureWork.tex)
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 56.
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 40.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [22
+
+
+]
+\openout2 = `Chapters/06_Reflection.aux'.
+
+ (./Chapters/06_Reflection.tex)
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 41.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [23
+
+
+]
+\openout2 = `Chapters/07_Conclusion.aux'.
+
+ (./Chapters/07_Conclusion.tex)
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 42.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [24
+
+
+] (./AcademicReport.bbl)
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 56.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [25
 
 ]
 \openout2 = `Chapters/Appendix.aux'.
 
  (./Chapters/Appendix.tex)
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
+
+<use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 56.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [23
+ [26
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
@@ -882,23 +923,23 @@ Package rerunfilecheck Info: File `AcademicReport.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 13666 strings out of 493633
- 203778 string characters out of 3143378
- 343525 words of memory out of 3000000
- 16564 multiletter control sequences out of 15000+200000
+ 13682 strings out of 493633
+ 204171 string characters out of 3143378
+ 343492 words of memory out of 3000000
+ 16573 multiletter control sequences out of 15000+200000
  9137 words of font info for 32 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 40i,14n,58p,1344b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,14n,58p,1634b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on AcademicReport.pdf (23 pages, 142298 bytes).
+Output written on AcademicReport.pdf (26 pages, 200940 bytes).
 PDF statistics:
- 485 PDF objects out of 1000 (max. 8388607)
- 448 compressed objects within 5 object streams
- 151 named destinations out of 1000 (max. 500000)
- 382 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 502 PDF objects out of 1000 (max. 8388607)
+ 460 compressed objects within 5 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
