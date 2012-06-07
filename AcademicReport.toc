@@ -24,25 +24,28 @@
 \contentsline {subsubsection}{\numberline {2.1.1}Participative Observations}{14}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}User Interviews}{15}{subsubsection.2.1.2}
 \contentsline {subsubsection}{\numberline {2.1.3}Feedback Notes}{15}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Tools and Skills}{15}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Tools and Skills}{16}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Scope and Schedule}{17}{subsection.2.3}
 \contentsline {section}{\numberline {3}System Design}{20}{section.3}
-\contentsline {subsection}{\numberline {3.1}Requirements Analysis}{20}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Form Gathering}{20}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Designing}{20}{subsection.3.3}
-\contentsline {section}{\numberline {4}Evaluation}{21}{section.4}
-\contentsline {subsection}{\numberline {4.1}Testing Procedures}{21}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{21}{subsection.4.2}
-\contentsline {section}{\numberline {5}Future Work}{22}{section.5}
-\contentsline {section}{\numberline {6}Reflection}{23}{section.6}
-\contentsline {subsection}{\numberline {6.1}Contribution}{23}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Difficulties}{23}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Lessons Learned}{23}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Future Suggestions}{23}{subsection.6.4}
-\contentsline {section}{\numberline {7}Conclusion}{24}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{24}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{24}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}A Second Time}{24}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Future Work}{24}{subsection.7.4}
-\contentsline {section}{\numberline {A}Bibliography}{25}{appendix.A}
-\contentsline {section}{\numberline {B}Appendix}{26}{appendix.B}
+\contentsline {subsection}{\numberline {3.1}Handover Overview}{20}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Current Handover Process}{22}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Requirements Analysis}{26}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Form Gathering}{26}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Design Process}{26}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}User Scenarios}{26}{subsection.3.6}
+\contentsline {section}{\numberline {4}Evaluation}{27}{section.4}
+\contentsline {subsection}{\numberline {4.1}Testing Procedures}{27}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{27}{subsection.4.2}
+\contentsline {section}{\numberline {5}Future Work}{28}{section.5}
+\contentsline {section}{\numberline {6}Reflection}{29}{section.6}
+\contentsline {subsection}{\numberline {6.1}Contribution}{29}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Difficulties}{29}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Lessons Learned}{29}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Future Suggestions}{29}{subsection.6.4}
+\contentsline {section}{\numberline {7}Conclusion}{30}{section.7}
+\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{30}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{30}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}A Second Time}{30}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Future Work}{30}{subsection.7.4}
+\contentsline {section}{\numberline {A}Bibliography}{31}{appendix.A}
+\contentsline {section}{\numberline {B}Appendix}{32}{appendix.B}

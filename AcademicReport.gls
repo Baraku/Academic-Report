@@ -68,7 +68,8 @@
 \glsgroupheading{I}\relax \glsresetentrylist %
 \glossaryentryfield{iCIMS}{\glsnamefont{iCIMS}}{\textbf {i}ntegrated \textbf {C}linical \textbf {I}nformation \textbf {M}anagement \textbf {S}ystem. A design application developed at the University of Sydney allowing the creation of information systems without the necessity of programming experience}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{13}}}%
+		\setentrycounter[]{page}\glsnumberformat{13}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{15}}}%
 \glossaryentryfield{IDC}{\glsnamefont{IDC}}{\textbf {I}n-\textbf {D}welling \textbf {C}atheter}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{IM}{\glsnamefont{IM}}{\textbf {I}ntra\textbf {m}uscular (routed into muscle tissue)}{\relax }{\glossaryentrynumbers{\relax 
@@ -98,8 +99,9 @@
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{ND}{\glsnamefont{ND}}{night shift}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
-\glossaryentryfield{NFR}{\glsnamefont{NFR}}{\textbf {N}ot \textbf {F}or \textbf {R}esuscitation}{\relax }{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{5}}}%
+\glossaryentryfield{NFR}{\glsnamefont{NFR}}{{\textbf {N}ot \textbf {F}or \textbf {R}esuscitation}. The patient does not want the clinical staff to use life saving measures}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23}}}%
 \glossaryentryfield{NG}{\glsnamefont{NG}}{\textbf {N}asal-\textbf {G}astric Tube}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{NP}{\glsnamefont{NP}}{\textbf {N}urse \textbf {P}ractitioner is a RN educated and authorised to function autonomously and collaboratively in an advanced and extended clinical role. Requires addition 1.5-2 years of study}{\relax }{\glossaryentrynumbers{\relax 
