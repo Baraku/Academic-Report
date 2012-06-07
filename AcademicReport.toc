@@ -21,25 +21,28 @@
 \contentsline {subsubsection}{\numberline {1.5.4}Trialing Designer Tool}{13}{subsubsection.1.5.4}
 \contentsline {section}{\numberline {2}Process}{14}{section.2}
 \contentsline {subsection}{\numberline {2.1}Overview}{14}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Tools and Skills}{14}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Literature Review}{15}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Scope and Schedule}{15}{subsection.2.4}
-\contentsline {section}{\numberline {3}System Design}{16}{section.3}
-\contentsline {subsection}{\numberline {3.1}Requirements Analysis}{16}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Form Gathering}{16}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Designing}{16}{subsection.3.3}
-\contentsline {section}{\numberline {4}Evaluation}{17}{section.4}
-\contentsline {subsection}{\numberline {4.1}Testing Procedures}{17}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{17}{subsection.4.2}
-\contentsline {section}{\numberline {5}Future Work}{18}{section.5}
-\contentsline {section}{\numberline {6}Reflection}{19}{section.6}
-\contentsline {subsection}{\numberline {6.1}Contribution}{19}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Difficulties}{19}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Lessons Learned}{19}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Future Suggestions}{19}{subsection.6.4}
-\contentsline {section}{\numberline {7}Conclusion}{20}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{20}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{20}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}A Second Time}{20}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Future Work}{20}{subsection.7.4}
-\contentsline {section}{\numberline {A}Appendix}{21}{appendix.A}
+\contentsline {subsubsection}{\numberline {2.1.1}Participative Observations}{14}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}User Interviews}{15}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Feedback Notes}{15}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Tools and Skills}{15}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Scope and Schedule}{16}{subsection.2.3}
+\contentsline {section}{\numberline {3}System Design}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Requirements Analysis}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Form Gathering}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Designing}{17}{subsection.3.3}
+\contentsline {section}{\numberline {4}Evaluation}{18}{section.4}
+\contentsline {subsection}{\numberline {4.1}Testing Procedures}{18}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{18}{subsection.4.2}
+\contentsline {section}{\numberline {5}Future Work}{19}{section.5}
+\contentsline {section}{\numberline {6}Reflection}{20}{section.6}
+\contentsline {subsection}{\numberline {6.1}Contribution}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Difficulties}{20}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Lessons Learned}{20}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Future Suggestions}{20}{subsection.6.4}
+\contentsline {section}{\numberline {7}Conclusion}{21}{section.7}
+\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{21}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{21}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}A Second Time}{21}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Future Work}{21}{subsection.7.4}
+\contentsline {section}{\numberline {A}Bibliography}{22}{appendix.A}
+\contentsline {section}{\numberline {B}Appendix}{23}{appendix.B}
