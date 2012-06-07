@@ -49,3 +49,4 @@
 \contentsline {subsection}{\numberline {7.4}Future Work}{30}{subsection.7.4}
 \contentsline {section}{\numberline {A}Bibliography}{31}{appendix.A}
 \contentsline {section}{\numberline {B}Appendix}{32}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}User Roles}{33}{subsection.B.1}
