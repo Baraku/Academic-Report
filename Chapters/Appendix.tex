@@ -8,6 +8,195 @@ Include the following:
 \item Scans of important forms (Nursing Care Record \& Patient History)
 \end{itemize}
 
+\subsection{Handover Requirements}
+\label{Handover Requirements}
+
+\textbf{Assumptions}
+\begin{itemize}
+\item A1: The adding of patients to the ward list is automatic and will be undertaken by the admission system (this is out of scope)
+\item A2: Handover should be done by exception rather than the rule, this means that the handover should focus on variances
+\item A3: Resuscitation is not part of the clinical handover
+\item A4: We can make up data such as Doctor Names, etc
+\item A5: We can use abbreviations if they are standard abbreviations
+\item A6: In regards to the Discharge Plan, we can simply put the Discharge Destination and assume that all relevant information resides in another system that we are linking to
+\item A7: In regards to test results, we can assume that we are linking to a different system where all the relevant data is present and we merely have to show the status of the test
+\end{itemize}
+
+\textbf{Business Requirements}
+\begin{itemize}
+\item B1: Increase efficiency in conducting Clinical Handovers by reducing human errors
+\item B2: Increase productivity in conducting Clinical Handovers by reducing time in accessing patient information
+\item B3: Reduce redundancy in delivering Clinical Handover information for the staff on the next shift
+\item B4: Reduce time in doing handovers by providing nurses, doctors and allied health access to an electronic copy of patient’s information
+\item B5: Create a uniform handover for clinical staff 
+\end{itemize}
+
+\textbf{Stakeholder Requirements}
+\begin{itemize}
+\item S1: A user must be able to access patient information of any patient on the ward
+\item S2: A user must see the critical patient information first when accessing that patient's information in the system
+\item S3: The status of the patient in terms of current location, procedure or activity should be accessible by the user
+\item S4: A user has to be informed of changes in the patient's information for:
+	\begin{itemize}
+	\item test results
+	\item variances in observations
+	\item change of medicine whether in dose or type
+	\item change in patient treatment
+	\item ward transfer
+	\item basic patient information
+	\end{itemize}
+\item S5: A patient must be displayed as a whole on a screen
+\item S6: Users have to know which !Nurse/!Doctor(s) is assigned to a patient
+\item S7: Users need to know, at all times, which patient they are looking at
+\item S8: Nurses and Doctors should see the patients they are responsible for first
+\item S9: Nurses and Doctors must be able to view a complete list of patients on a ward
+\item S10: Nurses and Doctors must be made aware of variance incidents of prior shift
+\item S11: The end users care about color so the forms need to be pleasing to the eye
+\item S12: In terms of handover, the nurses want to know the following:
+	\begin{itemize}
+	\item Any tubes, lines, drains
+	\item The rate of the IV (ml/hour)
+	\item If the patient has voided or not
+	\item If the patient has a catheter or not and whether the catheter has been removed
+	\item What drains a patient has or what drains have been removed
+	\item The volume that has drained
+	\item How much blood is going (blood transfusion)
+	\item Relevant Dr's orders
+	\item Discharge plans \& management
+	\item Short summary of patient history
+	\item Allergies
+	\item Upcoming procedures
+	\item Upcoming tests
+	\item Outstanding test results
+	\item Patient Mobility
+	\item Patient Fall Risk
+	\item Medications patient is on
+	\item Whether the patient has NFR status
+	\item Infection control
+	\end{itemize}
+\end{itemize}
+
+\textbf{Pre-requisite Requirements}
+\\ \\
+The following requirements are necessary in order to design a complete clinical handover:
+\begin{itemize}
+\item PR1: The system must contain the same information as the Resuscitation \& Treatment Directive form
+\item PR2: The system must contain the same information as the Nursing Care Record form
+\item PR3: The system must contain the same information as the Fluid Balance Chart form
+\item PR4: The system must contain the same information as the Intravenous Fluid Orders form (Medication/Order by a Dr.)
+\item PR5: The system must contain the same information as the Initial Admission Assessment form
+\item PR6: The system must contain the same information as the Initial Pain \& Symptom Assessment form
+\item PR7: The system must contain the same information as the Prescription \& Observation Chart for Continuous Subcutaneous Infusions via Syringe Driver form (Medication)
+\item PR8: The system must contain the same information as the Patient History form
+\item PR9: The system must contain the same information as the Adult Observation Chart form
+\item PR10: The system must contain the same information as the Medication Chart form
+\item PR11: The system must contain the same information as the Temporary Transfer/Handover form
+\item PR12: The system must contain the same information as the Patient Handover List form
+\item PR13: The system must contain the same information as the Patient Mobility Assessment form
+\item PR14: The system must contain the same information as the Nursing Risk Screening \& Assessment form
+\end{itemize}
+
+\textbf{Functional Requirements}
+\begin{itemize}
+\item F1: The system must display the patient's critical information on the handover screen
+	\begin{itemize}
+	\item critical information is any and all of the following:
+	\item short concise patient history including comorbidities
+	\item patient age, name, MRN, POD and EDD
+	\item diagnosis
+	\item whether the patient is NFR or not
+	\item admitting and consulting DRs
+	\item medications that impact the care for the patient
+	\item outstanding procedures
+	\item outstanding test results
+	\item any and all variances in tests results or observations
+	\item important allergies such as those to medications or materials used in the hospital (eg. latex)
+	\end{itemize}
+\item F2: The system must be able to print out a "Handover List" with the critical patient information on it:
+	\begin{itemize}
+	\item Bed/Room \#
+	\item Patient Name
+	\item Age
+	\item MRN
+	\item POD
+	\item EDD
+	\item Admitting Doctor
+	\item Consulting Doctor
+	\item Diagnosis
+	\item Medications
+		\begin{itemize}
+		\item Antibiotics
+		\item Anticoagulants
+		\item Antielgesic
+		\end{itemize}
+	\item Diet
+	\item IVs in patient and their rate
+	\item Drains in patient
+	\item Allergies
+	\item Medical History / Comorbidities
+	\item Small space for notes
+	\item Infection Status
+	\item NFR Status
+	\item Observation Frequency
+	\item Outstanding Test Results
+	\item Urine and Bowel voiding
+	\item Wounds
+	\item Operation Information (Theater, Time, NBM)
+	\item O2 Status
+	\item Fluid Restrictions
+	\item Blood Glucose Level
+	\item Discharge Information
+	\item Test result status
+	\end{itemize}
+\item F3: The system must be able to print out a filled schedule for the patients a nurse is responsible for
+\item F4: The system must be able to display a schedule of all procedures or time restrained actions the nurse must undertake for her patients
+\item F5: The system must allow a user to assign each nurse a set of patients for the shift
+\item F6: The system must log all user action for reference as well as auditing purposes
+\item F7: The system must allow the user the opportunity to add notes to a patient's information
+\item F8: The system must "highlight" variances for the user
+\item F9: The system must allow a user to enter information in regards to:
+	\begin{itemize}
+	\item observations
+	\item transfers
+	\item notes
+	\item form data
+	\end{itemize}
+\item F10: The system should be able to qualify a user based on their role
+\item F11: The system must timestamp all printouts
+\item F12: The system should differentiate between allergies in regards to clinical treatment and other allergies (eg. latex allergy vs. shellfish allergy)
+\item F13: The system must be able to store multiple procedures for each patient with the varying operation dates and times
+\item F14: The system must be able to store complications that arose during a patient's operations
+\item F15: The system should inform the user of the status of test results at the following various stages
+	\begin{itemize}
+	\item blood drawn
+	\item ready to be read (result available)
+	\item result acknowledged
+	\end{itemize}
+\item F16: The system must display a list of all patients on the ward
+\item F17: The system must allow the user to access handover information at any time during the shift
+\item F18: The system must visually differentiate between patients who are NFR and those who are not
+\item F19: The system must visually identify the infection control for each patient
+\item F20: The system must alert the user in the handover if infection control for the patient is necessary
+\item F21: The system must alert the user in the handover if there are vital sign variances for the patient
+\item F22: The system must provide a patient history summary in the handover
+\item F23: The system must provide the discharge destination of the patient to the user
+\item F24: The system must display the status of test results
+\item F25: The system must alert the user in the handover of any medically relevant allergies of the patient
+\item F26: The system must alert the user in the handover of any complications arising from surgery
+\item F27: The system must inform the user in the handover of the patient's dietary needs
+\item F28: The system must be able to store visual impairments of patients (eg. Glaucoma or Macular Degeneration)
+\item F29: The system must alert the user in the handover to any visual impairments the patient has
+\end{itemize}
+
+\textbf{Non-Functional Requirements}
+\begin{itemize}
+\item NF1: A clinical handover supported by the system cannot take longer than 30 minutes in regards to one nurse and her assigned patients
+\item NF2: The system must adhere to the Australian National Privacy Principles
+\item NF3: The system must adhere to the Federal Standard 6 "Clinical Handover"
+\item NF4: A user must be able to access a patient's information within 30 seconds
+\item NF5: Users with reduced vision must be able to use the system
+\end{itemize}
+
 \subsection{User Roles}
 \label{User Roles}
 
