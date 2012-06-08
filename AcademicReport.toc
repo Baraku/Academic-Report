@@ -1,53 +1,64 @@
 \select@language {english}
 \contentsline {section}{Abstract}{2}{Doc-Start}
-\contentsline {section}{Glossary}{5}{section*.4}
-\contentsline {section}{\numberline {1}Introduction}{9}{section.1}
-\contentsline {subsection}{\numberline {1.1}Client Profile}{9}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Project Description and Scope}{10}{subsection.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1}Project Description}{10}{subsubsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2}Scope}{10}{subsubsection.1.2.2}
-\contentsline {subsection}{\numberline {1.3}Project Objectives}{11}{subsection.1.3}
-\contentsline {subsubsection}{\numberline {1.3.1}Risks}{11}{subsubsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.2}Assumptions}{11}{subsubsection.1.3.2}
-\contentsline {subsubsection}{\numberline {1.3.3}Issues}{11}{subsubsection.1.3.3}
-\contentsline {subsection}{\numberline {1.4}Anticipated Outcomes / Results for the Project}{12}{subsection.1.4}
-\contentsline {subsubsection}{\numberline {1.4.1}First Draft Computerised Handover Form}{12}{subsubsection.1.4.1}
-\contentsline {subsubsection}{\numberline {1.4.2}Understanding of IT/IS within the Health Domain}{12}{subsubsection.1.4.2}
-\contentsline {subsubsection}{\numberline {1.4.3}Requirements Analysis Complete}{12}{subsubsection.1.4.3}
-\contentsline {subsection}{\numberline {1.5}Benefits of the Project}{12}{subsection.1.5}
-\contentsline {subsubsection}{\numberline {1.5.1}Technology Evangelisation}{12}{subsubsection.1.5.1}
-\contentsline {subsubsection}{\numberline {1.5.2}Pilot Project}{13}{subsubsection.1.5.2}
-\contentsline {subsubsection}{\numberline {1.5.3}End-User Driven Development}{13}{subsubsection.1.5.3}
-\contentsline {subsubsection}{\numberline {1.5.4}Trialing Designer Tool}{13}{subsubsection.1.5.4}
-\contentsline {section}{\numberline {2}Process}{14}{section.2}
-\contentsline {subsection}{\numberline {2.1}Overview}{14}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Participative Observations}{14}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}User Interviews}{15}{subsubsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.3}Feedback Notes}{15}{subsubsection.2.1.3}
-\contentsline {subsection}{\numberline {2.2}Tools and Skills}{16}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Scope and Schedule}{17}{subsection.2.3}
-\contentsline {section}{\numberline {3}System Design}{20}{section.3}
-\contentsline {subsection}{\numberline {3.1}Handover Overview}{20}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Current Handover Process}{22}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Requirements Analysis}{26}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Form Gathering}{26}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Design Process}{28}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}User Scenarios}{28}{subsection.3.6}
-\contentsline {section}{\numberline {4}Evaluation}{29}{section.4}
-\contentsline {subsection}{\numberline {4.1}Testing Procedures}{29}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{29}{subsection.4.2}
-\contentsline {section}{\numberline {5}Future Work}{30}{section.5}
-\contentsline {section}{\numberline {6}Reflection}{31}{section.6}
-\contentsline {subsection}{\numberline {6.1}Contribution}{31}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Difficulties}{31}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Lessons Learned}{31}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Future Suggestions}{31}{subsection.6.4}
-\contentsline {section}{\numberline {7}Conclusion}{32}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{32}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{32}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}A Second Time}{32}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Future Work}{32}{subsection.7.4}
-\contentsline {section}{\numberline {A}Bibliography}{33}{appendix.A}
-\contentsline {section}{\numberline {B}Appendix}{34}{appendix.B}
-\contentsline {subsection}{\numberline {B.1}Handover Requirements}{34}{subsection.B.1}
-\contentsline {subsection}{\numberline {B.2}User Roles}{42}{subsection.B.2}
+\contentsline {section}{Glossary}{6}{section*.4}
+\contentsline {section}{\numberline {1}Introduction}{11}{section.1}
+\contentsline {subsection}{\numberline {1.1}Client Profile}{11}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Project Description and Scope}{12}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Project Description}{12}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Scope}{12}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Project Objectives}{13}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Risks}{13}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Assumptions}{13}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Issues}{13}{subsubsection.1.3.3}
+\contentsline {subsection}{\numberline {1.4}Anticipated Outcomes / Results for the Project}{14}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}First Draft Computerised Handover Form}{14}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Understanding of IT/IS within the Health Domain}{14}{subsubsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.3}Requirements Analysis Complete}{14}{subsubsection.1.4.3}
+\contentsline {subsection}{\numberline {1.5}Benefits of the Project}{14}{subsection.1.5}
+\contentsline {subsubsection}{\numberline {1.5.1}Technology Evangelisation}{14}{subsubsection.1.5.1}
+\contentsline {subsubsection}{\numberline {1.5.2}Pilot Project}{15}{subsubsection.1.5.2}
+\contentsline {subsubsection}{\numberline {1.5.3}End-User Driven Development}{15}{subsubsection.1.5.3}
+\contentsline {subsubsection}{\numberline {1.5.4}Trialing Designer Tool}{15}{subsubsection.1.5.4}
+\contentsline {section}{\numberline {2}Process}{16}{section.2}
+\contentsline {subsection}{\numberline {2.1}Overview}{16}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Participative Observations}{16}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}User Interviews}{17}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Feedback Notes}{17}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Tools and Skills}{18}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Scope and Schedule}{19}{subsection.2.3}
+\contentsline {section}{\numberline {3}System Design}{22}{section.3}
+\contentsline {subsection}{\numberline {3.1}Handover Overview}{22}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Current Handover Process}{24}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Requirements Analysis}{28}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Form Gathering}{28}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Design Process}{30}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Handover by Exception}{31}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Viewing a Patient at a Glance}{31}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}Minimal Scrolling}{32}{subsubsection.3.5.3}
+\contentsline {subsection}{\numberline {3.6}Digital Handover Process}{32}{subsection.3.6}
+\contentsline {section}{\numberline {4}Evaluation}{36}{section.4}
+\contentsline {subsection}{\numberline {4.1}Testing Procedures}{36}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{36}{subsection.4.2}
+\contentsline {section}{\numberline {5}Future Work}{37}{section.5}
+\contentsline {section}{\numberline {6}Reflection}{38}{section.6}
+\contentsline {subsection}{\numberline {6.1}Contribution}{38}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Difficulties}{38}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Lessons Learned}{38}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Future Suggestions}{38}{subsection.6.4}
+\contentsline {section}{\numberline {7}Conclusion}{39}{section.7}
+\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{39}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{39}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}A Second Time}{39}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Future Work}{39}{subsection.7.4}
+\contentsline {section}{\numberline {A}Bibliography}{40}{appendix.A}
+\contentsline {section}{\numberline {B}Appendix}{41}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Handover Requirements}{41}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}User Roles}{49}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Patient Handover List}{53}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Nursing Care Record Transformation}{55}{subsection.B.4}
+\contentsline {subsection}{\numberline {B.5}SANSURGIMS Screenshots}{59}{subsection.B.5}
+\contentsline {subsubsection}{\numberline {B.5.1}Patient Tracking List}{59}{subsubsection.B.5.1}
+\contentsline {subsubsection}{\numberline {B.5.2}Very Uncomplex Patient Handover}{59}{subsubsection.B.5.2}
+\contentsline {subsubsection}{\numberline {B.5.3}Somewhat Complex Patient Hanover}{60}{subsubsection.B.5.3}
+\contentsline {subsubsection}{\numberline {B.5.4}Very Complex Patient Handover}{60}{subsubsection.B.5.4}
+\contentsline {subsubsection}{\numberline {B.5.5}General Patient Information Form}{61}{subsubsection.B.5.5}

@@ -69,7 +69,7 @@
 \glossaryentryfield{iCIMS}{\glsnamefont{iCIMS}}{\textbf {i}ntegrated \textbf {C}linical \textbf {I}nformation \textbf {M}anagement \textbf {S}ystem. A design application developed at the University of Sydney allowing the creation of information systems without the necessity of programming experience}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
 		\setentrycounter[]{page}\glsnumberformat{13}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{15}}}%
+		\setentrycounter[]{page}\glsnumberformat{16}}}%
 \glossaryentryfield{IDC}{\glsnamefont{IDC}}{\textbf {I}n-\textbf {D}welling \textbf {C}atheter}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{IM}{\glsnamefont{IM}}{\textbf {I}ntra\textbf {m}uscular (routed into muscle tissue)}{\relax }{\glossaryentrynumbers{\relax 
@@ -101,7 +101,8 @@
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{NFR}{\glsnamefont{NFR}}{{\textbf {N}ot \textbf {F}or \textbf {R}esuscitation}. The patient does not want the clinical staff to use life saving measures}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
-		\setentrycounter[]{page}\glsnumberformat{23}}}%
+		\setentrycounter[]{page}\glsnumberformat{23}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{44}}}%
 \glossaryentryfield{NG}{\glsnamefont{NG}}{\textbf {N}asal-\textbf {G}astric Tube}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{NP}{\glsnamefont{NP}}{\textbf {N}urse \textbf {P}ractitioner is a RN educated and authorised to function autonomously and collaboratively in an advanced and extended clinical role. Requires addition 1.5-2 years of study}{\relax }{\glossaryentrynumbers{\relax 
@@ -115,6 +116,8 @@
 \glossaryentryfield{PAC}{\glsnamefont{PAC}}{\textbf {P}ressure \textbf {A}rea \textbf {C}are}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{Palliative}{\glsnamefont{Palliative}}{relieving or soothing the symptoms of a disease or disorder with effecting a cure}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5}}}%
+\glossaryentryfield{Patient Handover List}{\glsnamefont{Patient Handover List}}{a printed list of all patients on the ward on which nurses note patient handover information. This list is referred to throughout the shift and also contains the nurses schedule. See Appendix \ref {Patient Handover List} for a scanned copy.}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
 \glossaryentryfield{PEG}{\glsnamefont{PEG}}{\textbf {P}ercutaneous \textbf {E}ndoscopic \textbf {G}astrostomy tube; tube that is inserted into the stomach to give nutrition}{\relax }{\glossaryentrynumbers{\relax 
 		\setentrycounter[]{page}\glsnumberformat{5}}}%
