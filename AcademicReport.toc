@@ -40,17 +40,16 @@
 \contentsline {subsection}{\numberline {4.1}Testing Procedures}{36}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Test Results}{37}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Interpretation of Results}{38}{subsection.4.3}
-\contentsline {section}{\numberline {5}Future Work}{39}{section.5}
-\contentsline {section}{\numberline {6}Reflection}{40}{section.6}
-\contentsline {subsection}{\numberline {6.1}Contribution}{40}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Difficulties}{40}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Lessons Learned}{40}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Future Suggestions}{40}{subsection.6.4}
-\contentsline {section}{\numberline {7}Conclusion}{41}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{41}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{41}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}A Second Time}{41}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Future Work}{41}{subsection.7.4}
+\contentsline {section}{\numberline {5}Reflection}{40}{section.5}
+\contentsline {subsection}{\numberline {5.1}Contribution}{40}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Difficulties}{40}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Lessons Learned}{40}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Future Suggestions}{40}{subsection.5.4}
+\contentsline {section}{\numberline {6}Conclusion}{41}{section.6}
+\contentsline {subsection}{\numberline {6.1}Concluding Remarks}{41}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Strengths and Weaknesses}{41}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}A Second Time}{41}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Future Work}{41}{subsection.6.4}
 \contentsline {section}{\numberline {A}Bibliography}{42}{appendix.A}
 \contentsline {section}{\numberline {B}Appendix}{43}{appendix.B}
 \contentsline {subsection}{\numberline {B.1}Handover Requirements}{43}{subsection.B.1}
