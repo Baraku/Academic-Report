@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  10 JUN 2012 03:17
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  10 JUN 2012 03:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1440,7 +1440,7 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on AcademicReport.pdf (68 pages, 5239338 bytes).
+Output written on AcademicReport.pdf (68 pages, 5239609 bytes).
 PDF statistics:
  891 PDF objects out of 1000 (max. 8388607)
  782 compressed objects within 8 object streams

@@ -8,9 +8,8 @@ A level-1 auxiliary file: Chapters/01_Introduction.aux
 A level-1 auxiliary file: Chapters/02_Process.aux
 A level-1 auxiliary file: Chapters/03_SystemDesign.aux
 A level-1 auxiliary file: Chapters/04_Evaluation.aux
-A level-1 auxiliary file: Chapters/05_FutureWork.aux
-A level-1 auxiliary file: Chapters/06_Reflection.aux
-A level-1 auxiliary file: Chapters/07_Conclusion.aux
+A level-1 auxiliary file: Chapters/05_Reflection.aux
+A level-1 auxiliary file: Chapters/06_Conclusion.aux
 A level-1 auxiliary file: Chapters/Appendix.aux
 Database file #1: bib/References.bib
 You're missing a field name---line 25 of file bib/References.bib
@@ -20,7 +19,7 @@ You're missing a field name---line 25 of file bib/References.bib
 I'm skipping whatever remains of this entry
 You've used 6 entries,
             1940 wiz_defined-function locations,
-            522 strings with 4740 characters,
+            521 strings with 4774 characters,
 and the built_in function-call counts, 1990 in all, are:
 = -- 188
 > -- 70
