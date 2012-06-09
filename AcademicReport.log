@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  10 JUN 2012 00:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.2)  10 JUN 2012 03:17
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1157,21 +1157,30 @@ Package pdftex.def Info: Images/usyd_logo.jpg used on input line 39.
 \openout2 = `Chapters/06_Conclusion.aux'.
 
 
-(./Chapters/06_Conclusion.tex)
+(./Chapters/06_Conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
 File: Images/usyd_logo.jpg Graphic file (type jpg)
- <use Images/usyd_logo.jpg>
-Package pdftex.def Info: Images/usyd_logo.jpg used on input line 40.
+<use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 10.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
  [43
 
 
-]
+])
+File: Images/usyd_logo.jpg Graphic file (type jpg)
+ <use Images/usyd_logo.jpg>
+Package pdftex.def Info: Images/usyd_logo.jpg used on input line 40.
+(pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
+ [44]
 (./AcademicReport.bbl)
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [44
+ [45
 
 ]
 \openout2 = `Chapters/Appendix.aux'.
@@ -1181,14 +1190,14 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [45
+ [46
 
 ]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 61.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [46]
+ [47]
 Underfull \hbox (badness 10000) in paragraph at lines 79--82
 
  []
@@ -1197,40 +1206,40 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 89.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [47]
+ [48]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 113.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [48]
+ [49]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
 
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 143.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [49]
+ [50]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 168.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [50]
+ [51]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
 
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 188.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [51]
+ [52]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 230.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [52]
+ [53]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
 
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 230.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [53]
+ [54]
 Overfull \hbox (8.49707pt too wide) in paragraph at lines 232--258
 [] [] 
  []
@@ -1239,7 +1248,7 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 259.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [54]
+ [55]
 Underfull \hbox (badness 1107) in paragraph at lines 289--290
 []\OT1/cmr/m/n/12 in con-tact with the As-sis-tant Di-rec-tor of Nurs-ing
  []
@@ -1253,7 +1262,7 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 294.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [55]
+ [56]
 Overfull \hbox (8.49707pt too wide) in paragraph at lines 296--324
 [] [] 
  []
@@ -1262,8 +1271,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 325.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [56]
-<Images/Patient-Handover-List-1.jpg, id=721, 614.295pt x 843.3909pt>
+ [57]
+<Images/Patient-Handover-List-1.jpg, id=725, 614.295pt x 843.3909pt>
 File: Images/Patient-Handover-List-1.jpg Graphic file (type jpg)
 
 <use Images/Patient-Handover-List-1.jpg>
@@ -1271,7 +1280,7 @@ Package pdftex.def Info: Images/Patient-Handover-List-1.jpg used on input line
 331.
 (pdftex.def)             Requested size: 614.29349pt x 843.38884pt.
 
-<Images/Patient-Handover-List-2.jpg, id=722, 614.295pt x 843.3909pt>
+<Images/Patient-Handover-List-2.jpg, id=726, 614.295pt x 843.3909pt>
 File: Images/Patient-Handover-List-2.jpg Graphic file (type jpg)
 
 <use Images/Patient-Handover-List-2.jpg>
@@ -1282,13 +1291,13 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 341.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [57 <./Images/Patient-Handover-List-1.jpg>]
+ [58 <./Images/Patient-Handover-List-1.jpg>]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 341.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [58 <./Images/Patient-Handover-List-2.jpg>]
-<Images/Nursing-Care-Record-Paper-1.jpg, id=733, 614.295pt x 843.3909pt>
+ [59 <./Images/Patient-Handover-List-2.jpg>]
+<Images/Nursing-Care-Record-Paper-1.jpg, id=737, 614.295pt x 843.3909pt>
 File: Images/Nursing-Care-Record-Paper-1.jpg Graphic file (type jpg)
 
 <use Images/Nursing-Care-Record-Paper-1.jpg>
@@ -1300,8 +1309,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 350.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
 
-[59 <./Images/Nursing-Care-Record-Paper-1.jpg>]
-<Images/Nursing-Care-Record-Paper-2.jpg, id=739, 614.295pt x 843.3909pt>
+[60 <./Images/Nursing-Care-Record-Paper-1.jpg>]
+<Images/Nursing-Care-Record-Paper-2.jpg, id=743, 614.295pt x 843.3909pt>
 File: Images/Nursing-Care-Record-Paper-2.jpg Graphic file (type jpg)
 
 <use Images/Nursing-Care-Record-Paper-2.jpg>
@@ -1313,8 +1322,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 358.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
 
-[60 <./Images/Nursing-Care-Record-Paper-2.jpg>]
-<Images/Nursing-Care-Record-Designer.png, id=745, 1284.8pt x 1027.84pt>
+[61 <./Images/Nursing-Care-Record-Paper-2.jpg>]
+<Images/Nursing-Care-Record-Designer.png, id=750, 1284.8pt x 1027.84pt>
 File: Images/Nursing-Care-Record-Designer.png Graphic file (type png)
 
 <use Images/Nursing-Care-Record-Designer.png>
@@ -1326,8 +1335,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 366.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
 
-[61 <./Images/Nursing-Care-Record-Designer.png>]
-<Images/Nursing-Care-Record-Web.png, id=752, 1266.7325pt x 976.64874pt>
+[62 <./Images/Nursing-Care-Record-Designer.png>]
+<Images/Nursing-Care-Record-Web.png, id=756, 1266.7325pt x 976.64874pt>
 File: Images/Nursing-Care-Record-Web.png Graphic file (type png)
 
 <use Images/Nursing-Care-Record-Web.png>
@@ -1338,8 +1347,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 372.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [62 <./Images/Nursing-Care-Record-Web.png>]
-<Images/iCIMS-Tracking-List-Cropped.png, id=760, 1264.725pt x 377.41pt>
+ [63 <./Images/Nursing-Care-Record-Web.png>]
+<Images/iCIMS-Tracking-List-Cropped.png, id=764, 1264.725pt x 377.41pt>
 File: Images/iCIMS-Tracking-List-Cropped.png Graphic file (type png)
 
 <use Images/iCIMS-Tracking-List-Cropped.png>
@@ -1347,7 +1356,7 @@ Package pdftex.def Info: Images/iCIMS-Tracking-List-Cropped.png used on input l
 ine 380.
 (pdftex.def)             Requested size: 1264.72192pt x 377.40907pt.
 
-<Images/iCIMS-Very-Uncomplex-Patient.png, id=761, 1266.7325pt x 835.12pt>
+<Images/iCIMS-Very-Uncomplex-Patient.png, id=765, 1266.7325pt x 835.12pt>
 File: Images/iCIMS-Very-Uncomplex-Patient.png Graphic file (type png)
 
 <use Images/iCIMS-Very-Uncomplex-Patient.png>
@@ -1359,8 +1368,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 395.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
 
-[63 <./Images/iCIMS-Tracking-List-Cropped.png> <./Images/iCIMS-Very-Uncomplex-P
-atient.png>] <Images/iCIMS-Medium-Patient.png, id=770, 1268.74pt x 716.6775pt>
+[64 <./Images/iCIMS-Tracking-List-Cropped.png> <./Images/iCIMS-Very-Uncomplex-P
+atient.png>] <Images/iCIMS-Medium-Patient.png, id=774, 1268.74pt x 716.6775pt>
 File: Images/iCIMS-Medium-Patient.png Graphic file (type png)
 
 <use Images/iCIMS-Medium-Patient.png>
@@ -1368,7 +1377,7 @@ Package pdftex.def Info: Images/iCIMS-Medium-Patient.png used on input line 401
 .
 (pdftex.def)             Requested size: 1268.73691pt x 716.67577pt.
 
-<Images/iCIMS-Complex-Patient.png, id=771, 1268.74pt x 834.11626pt>
+<Images/iCIMS-Complex-Patient.png, id=775, 1268.74pt x 834.11626pt>
 File: Images/iCIMS-Complex-Patient.png Graphic file (type png)
 
 <use Images/iCIMS-Complex-Patient.png>
@@ -1379,8 +1388,8 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 415.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [64 <./Images/iCIMS-Medium-Patient.png> <./Images/iCIMS-Complex-Patient.png>]
-<Images/iCIMS-General-Patient-Information.png, id=780, 1279.78125pt x 903.375pt
+ [65 <./Images/iCIMS-Medium-Patient.png> <./Images/iCIMS-Complex-Patient.png>]
+<Images/iCIMS-General-Patient-Information.png, id=785, 1279.78125pt x 903.375pt
 >
 File: Images/iCIMS-General-Patient-Information.png Graphic file (type png)
  <use Images/iCIMS-General-Patient-Information.png>
@@ -1392,17 +1401,17 @@ File: Images/usyd_logo.jpg Graphic file (type jpg)
 <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 425.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [65 <./Images/iCIMS-General-Patient-Information.png>]
+ [66 <./Images/iCIMS-General-Patient-Information.png>]
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 469.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [66])
+ [67])
 File: Images/usyd_logo.jpg Graphic file (type jpg)
  <use Images/usyd_logo.jpg>
 Package pdftex.def Info: Images/usyd_logo.jpg used on input line 54.
 (pdftex.def)             Requested size: 57.92496pt x 28.45274pt.
- [67]
+ [68]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
 
@@ -1414,12 +1423,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `AcademicReport.out' has not changed.
-(rerunfilecheck)             Checksum: CFF9B15AF49DCA3BD5EBAA8CE85EA723;4956.
+(rerunfilecheck)             Checksum: 2CE3ACBF92D7225325D944E71A4E42CC;4956.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
  ) 
 Here is how much of TeX's memory you used:
- 13924 strings out of 493633
- 209778 string characters out of 3143378
+ 13925 strings out of 493633
+ 209785 string characters out of 3143378
  345414 words of memory out of 3000000
  16705 multiletter control sequences out of 15000+200000
  9137 words of font info for 32 fonts, out of 3000000 for 9000
@@ -1431,10 +1440,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></
 usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on AcademicReport.pdf (67 pages, 5235843 bytes).
+Output written on AcademicReport.pdf (68 pages, 5239338 bytes).
 PDF statistics:
- 887 PDF objects out of 1000 (max. 8388607)
- 779 compressed objects within 8 object streams
- 257 named destinations out of 1000 (max. 500000)
+ 891 PDF objects out of 1000 (max. 8388607)
+ 782 compressed objects within 8 object streams
+ 258 named destinations out of 1000 (max. 500000)
  632 words of extra memory for PDF output out of 10000 (max. 10000000)
 
