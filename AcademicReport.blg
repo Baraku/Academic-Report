@@ -13,44 +13,50 @@ A level-1 auxiliary file: Chapters/06_Reflection.aux
 A level-1 auxiliary file: Chapters/07_Conclusion.aux
 A level-1 auxiliary file: Chapters/Appendix.aux
 Database file #1: bib/References.bib
-You've used 3 entries,
+You're missing a field name---line 25 of file bib/References.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 6 entries,
             1940 wiz_defined-function locations,
-            501 strings with 4227 characters,
-and the built_in function-call counts, 851 in all, are:
-= -- 79
-> -- 21
-< -- 3
-+ -- 8
-- -- 6
-* -- 60
-:= -- 163
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 16
-chr.to.int$ -- 3
-cite$ -- 3
-duplicate$ -- 40
-empty$ -- 64
-format.name$ -- 9
-if$ -- 159
+            522 strings with 4740 characters,
+and the built_in function-call counts, 1990 in all, are:
+= -- 188
+> -- 70
+< -- 5
++ -- 28
+- -- 22
+* -- 161
+:= -- 365
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 39
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 81
+empty$ -- 139
+format.name$ -- 32
+if$ -- 377
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 18
-num.names$ -- 9
-pop$ -- 19
+missing$ -- 7
+newline$ -- 33
+num.names$ -- 18
+pop$ -- 34
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 41
 quote$ -- 0
-skip$ -- 31
+skip$ -- 64
 stack$ -- 0
-substring$ -- 38
-swap$ -- 6
+substring$ -- 111
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
+type$ -- 32
 warning$ -- 0
-while$ -- 6
+while$ -- 14
 width$ -- 0
-write$ -- 40
+write$ -- 79
+(There was 1 error message)

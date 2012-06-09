@@ -38,27 +38,29 @@
 \contentsline {subsection}{\numberline {3.6}Digital Handover Process}{32}{subsection.3.6}
 \contentsline {section}{\numberline {4}Evaluation}{36}{section.4}
 \contentsline {subsection}{\numberline {4.1}Testing Procedures}{36}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Interpretation of Results}{36}{subsection.4.2}
-\contentsline {section}{\numberline {5}Future Work}{37}{section.5}
-\contentsline {section}{\numberline {6}Reflection}{38}{section.6}
-\contentsline {subsection}{\numberline {6.1}Contribution}{38}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Difficulties}{38}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Lessons Learned}{38}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Future Suggestions}{38}{subsection.6.4}
-\contentsline {section}{\numberline {7}Conclusion}{39}{section.7}
-\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{39}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{39}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}A Second Time}{39}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Future Work}{39}{subsection.7.4}
-\contentsline {section}{\numberline {A}Bibliography}{40}{appendix.A}
-\contentsline {section}{\numberline {B}Appendix}{41}{appendix.B}
-\contentsline {subsection}{\numberline {B.1}Handover Requirements}{41}{subsection.B.1}
-\contentsline {subsection}{\numberline {B.2}User Roles}{49}{subsection.B.2}
-\contentsline {subsection}{\numberline {B.3}Patient Handover List}{53}{subsection.B.3}
-\contentsline {subsection}{\numberline {B.4}Nursing Care Record Transformation}{55}{subsection.B.4}
-\contentsline {subsection}{\numberline {B.5}SANSURGIMS Screenshots}{59}{subsection.B.5}
-\contentsline {subsubsection}{\numberline {B.5.1}Patient Tracking List}{59}{subsubsection.B.5.1}
-\contentsline {subsubsection}{\numberline {B.5.2}Very Uncomplex Patient Handover}{59}{subsubsection.B.5.2}
-\contentsline {subsubsection}{\numberline {B.5.3}Somewhat Complex Patient Hanover}{60}{subsubsection.B.5.3}
-\contentsline {subsubsection}{\numberline {B.5.4}Very Complex Patient Handover}{60}{subsubsection.B.5.4}
-\contentsline {subsubsection}{\numberline {B.5.5}General Patient Information Form}{61}{subsubsection.B.5.5}
+\contentsline {subsection}{\numberline {4.2}Test Results}{37}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Interpretation of Results}{38}{subsection.4.3}
+\contentsline {section}{\numberline {5}Future Work}{39}{section.5}
+\contentsline {section}{\numberline {6}Reflection}{40}{section.6}
+\contentsline {subsection}{\numberline {6.1}Contribution}{40}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Difficulties}{40}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Lessons Learned}{40}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Future Suggestions}{40}{subsection.6.4}
+\contentsline {section}{\numberline {7}Conclusion}{41}{section.7}
+\contentsline {subsection}{\numberline {7.1}Concluding Remarks}{41}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Strengths and Weaknesses}{41}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}A Second Time}{41}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Future Work}{41}{subsection.7.4}
+\contentsline {section}{\numberline {A}Bibliography}{42}{appendix.A}
+\contentsline {section}{\numberline {B}Appendix}{43}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Handover Requirements}{43}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}User Roles}{51}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Patient Handover List}{55}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Nursing Care Record Transformation}{57}{subsection.B.4}
+\contentsline {subsection}{\numberline {B.5}SANSURGIMS Screenshots}{61}{subsection.B.5}
+\contentsline {subsubsection}{\numberline {B.5.1}Patient Tracking List}{61}{subsubsection.B.5.1}
+\contentsline {subsubsection}{\numberline {B.5.2}Very Uncomplex Patient Handover}{61}{subsubsection.B.5.2}
+\contentsline {subsubsection}{\numberline {B.5.3}Somewhat Complex Patient Hanover}{62}{subsubsection.B.5.3}
+\contentsline {subsubsection}{\numberline {B.5.4}Very Complex Patient Handover}{62}{subsubsection.B.5.4}
+\contentsline {subsubsection}{\numberline {B.5.5}General Patient Information Form}{63}{subsubsection.B.5.5}
+\contentsline {subsection}{\numberline {B.6}Clinical Handover Questionnaire}{64}{subsection.B.6}

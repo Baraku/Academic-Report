@@ -10,9 +10,26 @@ Budd, P. (2011).
 \newblock {\em Generative Clinical Information Management Systems}.
 \newblock PhD thesis, The University of Sydney.
 
+\bibitem[\protect\astroncite{Delone and McLean}{2003}]{DeloneMcLean}
+Delone, W.~H. and McLean, E.~R. (2003).
+\newblock The delone and mclean model of information systems success: A
+  ten-year update.
+\newblock {\em Journal of Management Information Systems}, 19:9--30.
+
 \bibitem[\protect\astroncite{IIBA}{2009}]{IIBA}
 IIBA (2009).
 \newblock {\em A Guide to the Business Analysis Body of Knowledge}.
 \newblock International Institute of Business Analysis, 2nd edition.
+
+\bibitem[\protect\astroncite{Mirani and Lederer}{1998}]{MiraniLederer}
+Mirani, R. and Lederer, A.~L. (1998).
+\newblock An instrument for assessing the organizational benefits of is
+  projects.
+\newblock {\em Decision Sciences}, 29:803--838.
+
+\bibitem[\protect\astroncite{Seddon et~al.}{1999}]{Seddon}
+Seddon, P.~B., Staples, S., Patnayakuni, R., and Bowtell, M. (1999).
+\newblock Dimensions of information systems success.
+\newblock {\em Communications of the Association for Information Systems}, 2.
 
 \end{thebibliography}
