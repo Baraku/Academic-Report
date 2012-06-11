@@ -13,55 +13,56 @@
 \BOOKMARK [3][]{subsubsection.1.4.1}{1.4.1 First Draft Computerised Handover Form}{subsection.1.4}% 13
 \BOOKMARK [3][]{subsubsection.1.4.2}{1.4.2 Understanding of IT/IS within the Health Domain}{subsection.1.4}% 14
 \BOOKMARK [3][]{subsubsection.1.4.3}{1.4.3 Requirements Analysis Complete}{subsection.1.4}% 15
-\BOOKMARK [2][]{subsection.1.5}{1.5 Benefits of the Project}{section.1}% 16
-\BOOKMARK [3][]{subsubsection.1.5.1}{1.5.1 Technology Evangelisation}{subsection.1.5}% 17
-\BOOKMARK [3][]{subsubsection.1.5.2}{1.5.2 Pilot Project}{subsection.1.5}% 18
-\BOOKMARK [3][]{subsubsection.1.5.3}{1.5.3 End-User Driven Development}{subsection.1.5}% 19
-\BOOKMARK [3][]{subsubsection.1.5.4}{1.5.4 Trialing Designer Tool}{subsection.1.5}% 20
-\BOOKMARK [1][]{section.2}{2 Process}{}% 21
-\BOOKMARK [2][]{subsection.2.1}{2.1 Overview}{section.2}% 22
-\BOOKMARK [3][]{subsubsection.2.1.1}{2.1.1 Participative Observations}{subsection.2.1}% 23
-\BOOKMARK [3][]{subsubsection.2.1.2}{2.1.2 User Interviews}{subsection.2.1}% 24
-\BOOKMARK [3][]{subsubsection.2.1.3}{2.1.3 Feedback Notes}{subsection.2.1}% 25
-\BOOKMARK [2][]{subsection.2.2}{2.2 Tools and Skills}{section.2}% 26
-\BOOKMARK [2][]{subsection.2.3}{2.3 Scope and Schedule}{section.2}% 27
-\BOOKMARK [1][]{section.3}{3 System Design}{}% 28
-\BOOKMARK [2][]{subsection.3.1}{3.1 Handover Overview}{section.3}% 29
-\BOOKMARK [2][]{subsection.3.2}{3.2 Current Handover Process}{section.3}% 30
-\BOOKMARK [2][]{subsection.3.3}{3.3 Requirements Analysis}{section.3}% 31
-\BOOKMARK [2][]{subsection.3.4}{3.4 Form Gathering}{section.3}% 32
-\BOOKMARK [2][]{subsection.3.5}{3.5 Design Process}{section.3}% 33
-\BOOKMARK [3][]{subsubsection.3.5.1}{3.5.1 Handover by Exception}{subsection.3.5}% 34
-\BOOKMARK [3][]{subsubsection.3.5.2}{3.5.2 Viewing a Patient at a Glance}{subsection.3.5}% 35
-\BOOKMARK [3][]{subsubsection.3.5.3}{3.5.3 Minimal Scrolling}{subsection.3.5}% 36
-\BOOKMARK [2][]{subsection.3.6}{3.6 Digital Handover Process}{section.3}% 37
-\BOOKMARK [1][]{section.4}{4 Evaluation}{}% 38
-\BOOKMARK [2][]{subsection.4.1}{4.1 Testing Procedures}{section.4}% 39
-\BOOKMARK [2][]{subsection.4.2}{4.2 Test Results}{section.4}% 40
-\BOOKMARK [2][]{subsection.4.3}{4.3 Interpretation of Results}{section.4}% 41
-\BOOKMARK [1][]{section.5}{5 Reflection}{}% 42
-\BOOKMARK [2][]{subsection.5.1}{5.1 Difficulties}{section.5}% 43
-\BOOKMARK [3][]{subsubsection.5.1.1}{5.1.1 Design Thinking}{subsection.5.1}% 44
-\BOOKMARK [3][]{subsubsection.5.1.2}{5.1.2 The Golden Middle}{subsection.5.1}% 45
-\BOOKMARK [3][]{subsubsection.5.1.3}{5.1.3 iCIMS}{subsection.5.1}% 46
-\BOOKMARK [3][]{subsubsection.5.1.4}{5.1.4 Time}{subsection.5.1}% 47
-\BOOKMARK [2][]{subsection.5.2}{5.2 Lessons Learned}{section.5}% 48
-\BOOKMARK [2][]{subsection.5.3}{5.3 Future Suggestions}{section.5}% 49
-\BOOKMARK [1][]{section.6}{6 Conclusion}{}% 50
-\BOOKMARK [2][]{subsection.6.1}{6.1 Strengths and Weaknesses}{section.6}% 51
-\BOOKMARK [2][]{subsection.6.2}{6.2 A Second Time}{section.6}% 52
-\BOOKMARK [2][]{subsection.6.3}{6.3 Future Work}{section.6}% 53
-\BOOKMARK [2][]{subsection.6.4}{6.4 Concluding Remarks}{section.6}% 54
-\BOOKMARK [1][]{appendix.A}{A Bibliography}{}% 55
-\BOOKMARK [1][]{appendix.B}{B Appendix}{}% 56
-\BOOKMARK [2][]{subsection.B.1}{B.1 Handover Requirements}{appendix.B}% 57
-\BOOKMARK [2][]{subsection.B.2}{B.2 User Roles}{appendix.B}% 58
-\BOOKMARK [2][]{subsection.B.3}{B.3 Patient Handover List}{appendix.B}% 59
-\BOOKMARK [2][]{subsection.B.4}{B.4 Nursing Care Record Transformation}{appendix.B}% 60
-\BOOKMARK [2][]{subsection.B.5}{B.5 SANSURGIMS Screenshots}{appendix.B}% 61
-\BOOKMARK [3][]{subsubsection.B.5.1}{B.5.1 Patient Tracking List}{subsection.B.5}% 62
-\BOOKMARK [3][]{subsubsection.B.5.2}{B.5.2 Very Uncomplex Patient Handover}{subsection.B.5}% 63
-\BOOKMARK [3][]{subsubsection.B.5.3}{B.5.3 Somewhat Complex Patient Hanover}{subsection.B.5}% 64
-\BOOKMARK [3][]{subsubsection.B.5.4}{B.5.4 Very Complex Patient Handover}{subsection.B.5}% 65
-\BOOKMARK [3][]{subsubsection.B.5.5}{B.5.5 General Patient Information Form}{subsection.B.5}% 66
-\BOOKMARK [2][]{subsection.B.6}{B.6 Clinical Handover Questionnaire}{appendix.B}% 67
+\BOOKMARK [3][]{subsubsection.1.4.4}{1.4.4 Design of a Simulation of the Desired System}{subsection.1.4}% 16
+\BOOKMARK [2][]{subsection.1.5}{1.5 Benefits of the Project}{section.1}% 17
+\BOOKMARK [3][]{subsubsection.1.5.1}{1.5.1 Technology Evangelisation}{subsection.1.5}% 18
+\BOOKMARK [3][]{subsubsection.1.5.2}{1.5.2 Pilot Project}{subsection.1.5}% 19
+\BOOKMARK [3][]{subsubsection.1.5.3}{1.5.3 End-User Driven Development}{subsection.1.5}% 20
+\BOOKMARK [3][]{subsubsection.1.5.4}{1.5.4 Trialing the Designer Tool}{subsection.1.5}% 21
+\BOOKMARK [1][]{section.2}{2 Process}{}% 22
+\BOOKMARK [2][]{subsection.2.1}{2.1 Overview}{section.2}% 23
+\BOOKMARK [3][]{subsubsection.2.1.1}{2.1.1 Participative Observations}{subsection.2.1}% 24
+\BOOKMARK [3][]{subsubsection.2.1.2}{2.1.2 User Interviews}{subsection.2.1}% 25
+\BOOKMARK [3][]{subsubsection.2.1.3}{2.1.3 Feedback Notes}{subsection.2.1}% 26
+\BOOKMARK [2][]{subsection.2.2}{2.2 Tools and Skills}{section.2}% 27
+\BOOKMARK [2][]{subsection.2.3}{2.3 Scope and Schedule}{section.2}% 28
+\BOOKMARK [1][]{section.3}{3 System Design}{}% 29
+\BOOKMARK [2][]{subsection.3.1}{3.1 Handover Overview}{section.3}% 30
+\BOOKMARK [2][]{subsection.3.2}{3.2 Current Handover Process}{section.3}% 31
+\BOOKMARK [2][]{subsection.3.3}{3.3 Requirements Analysis}{section.3}% 32
+\BOOKMARK [2][]{subsection.3.4}{3.4 Form Gathering}{section.3}% 33
+\BOOKMARK [2][]{subsection.3.5}{3.5 Design Process}{section.3}% 34
+\BOOKMARK [3][]{subsubsection.3.5.1}{3.5.1 Handover by Exception}{subsection.3.5}% 35
+\BOOKMARK [3][]{subsubsection.3.5.2}{3.5.2 Viewing a Patient at a Glance}{subsection.3.5}% 36
+\BOOKMARK [3][]{subsubsection.3.5.3}{3.5.3 Minimal Scrolling}{subsection.3.5}% 37
+\BOOKMARK [2][]{subsection.3.6}{3.6 Digital Handover Process}{section.3}% 38
+\BOOKMARK [1][]{section.4}{4 Evaluation}{}% 39
+\BOOKMARK [2][]{subsection.4.1}{4.1 Testing Procedures}{section.4}% 40
+\BOOKMARK [2][]{subsection.4.2}{4.2 Test Results}{section.4}% 41
+\BOOKMARK [2][]{subsection.4.3}{4.3 Interpretation of Results}{section.4}% 42
+\BOOKMARK [1][]{section.5}{5 Reflection}{}% 43
+\BOOKMARK [2][]{subsection.5.1}{5.1 Difficulties}{section.5}% 44
+\BOOKMARK [3][]{subsubsection.5.1.1}{5.1.1 Design Thinking}{subsection.5.1}% 45
+\BOOKMARK [3][]{subsubsection.5.1.2}{5.1.2 The Golden Middle}{subsection.5.1}% 46
+\BOOKMARK [3][]{subsubsection.5.1.3}{5.1.3 iCIMS}{subsection.5.1}% 47
+\BOOKMARK [3][]{subsubsection.5.1.4}{5.1.4 Time}{subsection.5.1}% 48
+\BOOKMARK [2][]{subsection.5.2}{5.2 Lessons Learned}{section.5}% 49
+\BOOKMARK [2][]{subsection.5.3}{5.3 Future Suggestions}{section.5}% 50
+\BOOKMARK [1][]{section.6}{6 Conclusion}{}% 51
+\BOOKMARK [2][]{subsection.6.1}{6.1 Strengths and Weaknesses}{section.6}% 52
+\BOOKMARK [2][]{subsection.6.2}{6.2 A Second Time}{section.6}% 53
+\BOOKMARK [2][]{subsection.6.3}{6.3 Future Work}{section.6}% 54
+\BOOKMARK [2][]{subsection.6.4}{6.4 Concluding Remarks}{section.6}% 55
+\BOOKMARK [1][]{appendix.A}{A Bibliography}{}% 56
+\BOOKMARK [1][]{appendix.B}{B Appendix}{}% 57
+\BOOKMARK [2][]{subsection.B.1}{B.1 Handover Requirements}{appendix.B}% 58
+\BOOKMARK [2][]{subsection.B.2}{B.2 User Roles}{appendix.B}% 59
+\BOOKMARK [2][]{subsection.B.3}{B.3 Patient Handover List}{appendix.B}% 60
+\BOOKMARK [2][]{subsection.B.4}{B.4 Nursing Care Record Transformation}{appendix.B}% 61
+\BOOKMARK [2][]{subsection.B.5}{B.5 SANSURGIMS Screenshots}{appendix.B}% 62
+\BOOKMARK [3][]{subsubsection.B.5.1}{B.5.1 Patient Tracking List}{subsection.B.5}% 63
+\BOOKMARK [3][]{subsubsection.B.5.2}{B.5.2 Very Uncomplex Patient Handover}{subsection.B.5}% 64
+\BOOKMARK [3][]{subsubsection.B.5.3}{B.5.3 Somewhat Complex Patient Hanover}{subsection.B.5}% 65
+\BOOKMARK [3][]{subsubsection.B.5.4}{B.5.4 Very Complex Patient Handover}{subsection.B.5}% 66
+\BOOKMARK [3][]{subsubsection.B.5.5}{B.5.5 General Patient Information Form}{subsection.B.5}% 67
+\BOOKMARK [2][]{subsection.B.6}{B.6 Clinical Handover Questionnaire}{appendix.B}% 68
