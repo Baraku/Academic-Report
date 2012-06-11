@@ -1,5 +1,4 @@
 \select@language {english}
-\contentsline {section}{Abstract}{2}{Doc-Start}
 \contentsline {section}{Glossary}{6}{section*.4}
 \contentsline {section}{\numberline {1}Introduction}{10}{section.1}
 \contentsline {subsection}{\numberline {1.1}Client Profile}{10}{subsection.1.1}
@@ -60,15 +59,39 @@
 \contentsline {subsection}{\numberline {B.2}User Roles}{53}{subsection.B.2}
 \contentsline {subsection}{\numberline {B.3}Patient Handover List}{57}{subsection.B.3}
 \contentsline {subsection}{\numberline {B.4}Nursing Care Record Transformation}{59}{subsection.B.4}
-\contentsline {subsection}{\numberline {B.5}SANSURGIMS Screenshots}{63}{subsection.B.5}
-\contentsline {subsubsection}{\numberline {B.5.1}Patient Tracking List}{63}{subsubsection.B.5.1}
-\contentsline {subsubsection}{\numberline {B.5.2}Very Uncomplex Patient Handover}{63}{subsubsection.B.5.2}
-\contentsline {subsubsection}{\numberline {B.5.3}Somewhat Complex Patient Hanover}{64}{subsubsection.B.5.3}
-\contentsline {subsubsection}{\numberline {B.5.4}Very Complex Patient Handover}{64}{subsubsection.B.5.4}
-\contentsline {subsubsection}{\numberline {B.5.5}General Patient Information Form}{65}{subsubsection.B.5.5}
-\contentsline {subsection}{\numberline {B.6}Clinical Handover Questionnaire}{66}{subsection.B.6}
-\contentsline {subsection}{\numberline {B.7}SANSURGIMS Data Flow}{68}{subsection.B.7}
-\contentsline {subsection}{\numberline {B.8}SANSURGIMS Work Flow}{69}{subsection.B.8}
-\contentsline {subsubsection}{\numberline {B.8.1}Handover}{69}{subsubsection.B.8.1}
-\contentsline {subsubsection}{\numberline {B.8.2}General Patient Information}{70}{subsubsection.B.8.2}
-\contentsline {subsubsection}{\numberline {B.8.3}Data Entry}{70}{subsubsection.B.8.3}
+\contentsline {subsection}{\numberline {B.5}Clinical Handover Questionnaire}{63}{subsection.B.5}
+\contentsline {subsection}{\numberline {B.6}SANSURGIMS Data Flow}{65}{subsection.B.6}
+\contentsline {subsection}{\numberline {B.7}SANSURGIMS Work Flow}{66}{subsection.B.7}
+\contentsline {subsubsection}{\numberline {B.7.1}Handover}{66}{subsubsection.B.7.1}
+\contentsline {subsubsection}{\numberline {B.7.2}General Patient Information}{67}{subsubsection.B.7.2}
+\contentsline {subsubsection}{\numberline {B.7.3}Data Entry}{67}{subsubsection.B.7.3}
+\contentsline {subsection}{\numberline {B.8}SANSURGIMS Screenshots}{68}{subsection.B.8}
+\contentsline {subsubsection}{\numberline {B.8.1}Patient Tracking List}{68}{subsubsection.B.8.1}
+\contentsline {subsubsection}{\numberline {B.8.2}Non-complex Patient Handover}{68}{subsubsection.B.8.2}
+\contentsline {subsubsection}{\numberline {B.8.3}Somewhat Complex Patient Hanover}{69}{subsubsection.B.8.3}
+\contentsline {subsubsection}{\numberline {B.8.4}Very Complex Patient Handover}{70}{subsubsection.B.8.4}
+\contentsline {subsubsection}{\numberline {B.8.5}General Patient Information Form}{71}{subsubsection.B.8.5}
+\contentsline {subsubsection}{\numberline {B.8.6}Pain and Symptom Assessment Entry Form}{72}{subsubsection.B.8.6}
+\contentsline {subsubsection}{\numberline {B.8.7}Pain and Symptom Assessment Table Form}{73}{subsubsection.B.8.7}
+\contentsline {subsubsection}{\numberline {B.8.8}Nursing Care Record Entry Form}{74}{subsubsection.B.8.8}
+\contentsline {subsubsection}{\numberline {B.8.9}Nursing Care Record Table Form}{86}{subsubsection.B.8.9}
+\contentsline {subsubsection}{\numberline {B.8.10}Patient History Form}{87}{subsubsection.B.8.10}
+\contentsline {subsubsection}{\numberline {B.8.11}Patient Mobility Assessment Form}{88}{subsubsection.B.8.11}
+\contentsline {subsubsection}{\numberline {B.8.12}Observation Chart Entry Form}{89}{subsubsection.B.8.12}
+\contentsline {subsubsection}{\numberline {B.8.13}Observation Chart Table Form}{90}{subsubsection.B.8.13}
+\contentsline {subsubsection}{\numberline {B.8.14}Action Record Entry Form}{91}{subsubsection.B.8.14}
+\contentsline {subsubsection}{\numberline {B.8.15}Action Record Table Form}{92}{subsubsection.B.8.15}
+\contentsline {subsubsection}{\numberline {B.8.16}Nurse Risk Screening and Assessment Form}{93}{subsubsection.B.8.16}
+\contentsline {subsubsection}{\numberline {B.8.17}Admin Screen Form}{94}{subsubsection.B.8.17}
+\contentsline {subsubsection}{\numberline {B.8.18}Allergy Form}{95}{subsubsection.B.8.18}
+\contentsline {subsubsection}{\numberline {B.8.19}Comorbidity Form}{95}{subsubsection.B.8.19}
+\contentsline {subsubsection}{\numberline {B.8.20}Visual Impairments Form}{95}{subsubsection.B.8.20}
+\contentsline {subsubsection}{\numberline {B.8.21}Fluid Balance Chart Entry Form}{96}{subsubsection.B.8.21}
+\contentsline {subsubsection}{\numberline {B.8.22}Fluid Balance Chart Table Form}{97}{subsubsection.B.8.22}
+\contentsline {subsubsection}{\numberline {B.8.23}Emergency Order Entry Form}{98}{subsubsection.B.8.23}
+\contentsline {subsubsection}{\numberline {B.8.24}Intravenous Fluid Order Entry Form}{99}{subsubsection.B.8.24}
+\contentsline {subsubsection}{\numberline {B.8.25}Intravenous Fluid Orders and Emergency Orders Form}{100}{subsubsection.B.8.25}
+\contentsline {subsubsection}{\numberline {B.8.26}Once Only, Pre-Medication and Nurse Initiated Medicines Form}{101}{subsubsection.B.8.26}
+\contentsline {subsubsection}{\numberline {B.8.27}Telephone Order Entry Form}{102}{subsubsection.B.8.27}
+\contentsline {subsubsection}{\numberline {B.8.28}Medication Chart Form}{103}{subsubsection.B.8.28}
+\contentsline {subsubsection}{\numberline {B.8.29}Temporary Transfer/Handover Ticket To Ride Form}{104}{subsubsection.B.8.29}
